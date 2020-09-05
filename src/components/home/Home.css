@@ -1,0 +1,33 @@
+.home__banner{
+   display: flex;
+   justify-content: center;
+   position: absolute;
+   top: 40%;
+   left: 50%;
+   transform: translateX(-50%);
+   /* background-color: red; */
+   padding: 10px;
+   width: 60vw;
+}
+.banner__content .banner__heading{
+    color: #fff;
+    font-size: 2.5rem;
+    text-transform: capitalize;
+    font-family: 'Candal';
+    font-weight: 600;
+}
+
+.banner__heading .bright{
+    color: #04d90b;
+    padding-bottom: 10px;
+    border-bottom: 3px solid white;
+}
+
+.banner__content .banner__para{
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: sans-serif;
+    /* background-color: red; */
+    margin-top: 5%;
+}
