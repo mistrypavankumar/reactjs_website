@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Team() {
+export default function ContactUs() {
     return (
         <div>
-            <h1>Team page</h1>
+            <h1>Contact us page</h1>
         </div>
     )
 }
